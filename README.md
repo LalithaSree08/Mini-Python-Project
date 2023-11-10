@@ -1,1 +1,2 @@
-# Mini-Python-Project
+# Mini-Python-Project  
+PASSWORD GENERATOR
